@@ -6,10 +6,10 @@ public class webDemo {
         System.out.println("最开始的分支--master-idea");
         System.out.println("最开始的分支--master-git");
 		System.out.println("最开始的分支--master-idea1");
-<<<<<<< .mine
+
 		System.out.println("最开始的分支--master-git");
-=======
+
         System.out.println("最开始的分支--master-idea1");
->>>>>>> .theirs
+
     }
 }
